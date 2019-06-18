@@ -6,7 +6,7 @@ This project is a **Swift Playground** that explains core machine learning and N
 
 A demo of the project running on iPad is available [here on Youtube](https://www.youtube.com/watch?v=UUNbzfvyk-4).
 
-I used this project as a submission to the **WWDC19 Scholarships** program and it was accepted. As a reward, I got to attend WWDC 2019 with my travel expenses covered by Apple and meet the engineers who built the frameworks we use daily. 😁
+I used this project as a submission to the **WWDC19 Scholarships** program and it was accepted. As a reward, I got to attend WWDC 2019 with my travel expenses covered by Apple and meet the engineers who built the frameworks we use daily.
 
 ![Screenshot](/Screenshot.PNG)
 
