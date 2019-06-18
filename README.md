@@ -19,7 +19,7 @@ I used this project as a submission to the **WWDC19 Scholarships** program and i
 6. Have fun!
 
 ## What I’ve Learned
-- Important ML & NLP concepts
+- Important Machine Learning & NLP concepts
 - How to use Natural Language framework
 - How to use CreateML to train text recognition models
 - How to create engaging learning experiences using Swift Playgrounds
