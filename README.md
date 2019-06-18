@@ -4,6 +4,8 @@
 
 This project is a **Swift Playground** that explains core machine learning and Natural Language Processing (NLP) concepts and showcases Apple's new **Natural Language** framework through a visually appealing experience. Some of the technologies used were CoreML, UIKit, PlaygroundBook, CreateML and the framework itself, along with three different publicly available datasets.
 
+A demo of the project running on iPad is available [here on Youtube](https://www.youtube.com/watch?v=UUNbzfvyk-4).
+
 I used this project as a submission to the **WWDC19 Scholarships** program and it was accepted. As a reward, I got to attend WWDC 2019 with my travel expenses covered by Apple and meet the engineers who built the frameworks we use daily. 😁
 
 ![Screenshot](/Screenshot.PNG)
