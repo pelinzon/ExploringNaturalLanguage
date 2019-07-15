@@ -10,7 +10,12 @@ I used this project as a submission to the **WWDC19 Scholarships** program and i
 
 ![Screenshot](/Screenshot.PNG)
 
-## Instructions
+## Pre-Compiled Instructions
+1. Download the `Exploring Natural Language.playgroundbook` file;
+2. AirDrop the file to your iPad;
+3. Have fun!
+
+## Compiling Instructions
 1. Open the project using Xcode;
 2. Select the *PlaygroundBook* target and build it;
 3. At the very last folder, named *Products*, you should see a new `.playgroundbook` file;
@@ -25,7 +30,7 @@ I used this project as a submission to the **WWDC19 Scholarships** program and i
 - How to create engaging learning experiences using Swift Playgrounds
 
 ## Requirements
-- Xcode 10 (may not work on newer versions, use Swift 4.2 toolchain if needed)
+- Xcode 10 for compiling (use Swift 4.2 toolchain if needed)
 - iPad running iOS 12+
 - Swift Playgrounds 2.0+
 
