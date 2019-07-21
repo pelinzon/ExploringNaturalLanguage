@@ -13,7 +13,7 @@ I used this project as a submission to the **WWDC19 Scholarships** program and i
 ## Pre-Compiled Instructions
 1. Download the `Exploring Natural Language.playgroundbook` file;
 2. AirDrop the file to your iPad;
-3. Have fun!
+3. Open with Swift Playgrounds and have fun!
 
 ## Compiling Instructions
 1. Open the project using Xcode;
@@ -21,7 +21,7 @@ I used this project as a submission to the **WWDC19 Scholarships** program and i
 3. At the very last folder, named *Products*, you should see a new `.playgroundbook` file;
 4. Right-click it, and click on *Show on Finder*;
 5. AirDrop the file to your iPad;
-6. Have fun!
+6. Open with Swift Playgrounds and have fun!
 
 ## What I’ve Learned
 - Important Machine Learning & NLP concepts
